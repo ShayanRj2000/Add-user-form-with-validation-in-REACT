@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Add-user-form-with-validation-in-REACT/static/css/main.d12f359e.css",
+    "main.js": "/Add-user-form-with-validation-in-REACT/static/js/main.a3de26fa.js",
+    "index.html": "/Add-user-form-with-validation-in-REACT/index.html",
+    "main.d12f359e.css.map": "/Add-user-form-with-validation-in-REACT/static/css/main.d12f359e.css.map",
+    "main.a3de26fa.js.map": "/Add-user-form-with-validation-in-REACT/static/js/main.a3de26fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12f359e.css",
+    "static/js/main.a3de26fa.js"
+  ]
+}
